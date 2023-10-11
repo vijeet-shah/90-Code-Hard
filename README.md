@@ -1,6 +1,7 @@
 # 90-Code-Hard Challenge
 
-# A 90-Day Roadmap to Becoming an Independent Fullstack Web Developer and Open Source Contributor
+
+## A 90-Day Roadmap to Becoming an Independent Fullstack Web Developer and Open Source Contributor
 
 Are you tired of getting stuck in endless tutorial hell and want to become a proficient full-stack web developer who can tackle real-world challenges? Look no further! Just start this 90-day coding hard challenge that will transform you into an independent full-stack web developer and an open-source contributor. This journey won't be easy, but it will be incredibly rewarding. In this blog, we'll outline the steps and skills you'll need to succeed in this coding hard challenge. We will upload blog for the topic & official documentation which you can refer to master these skills.
 
