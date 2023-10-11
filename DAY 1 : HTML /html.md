@@ -145,28 +145,6 @@ HTML provides flexibility in creating various types of input elements using the 
 
 This adaptability allows you to customize input fields for different use cases without altering the HTML structure.
 
-In conclusion, HTML is the foundation of web development. By understanding its elements and attributes, you can create structured and meaningful web pages. Embrace the power of HTML to build interactive, accessible, and visually appealing websites.
-
-Hey, Hey, Everyone ! HyperText Markup Language, or HTML, is the backbone of the web, providing the content, as well as the structure of that content, that you see displayed in your web browser. Here markup refers to the use of special characters and tags, used to create elements such as headings, paragraphs, lists, tables, and images. Just like we humans have our own languages like English or Hindi, computers have a language too, binary code 0 & 1.
-
-When you type an HTML document, you are essentially writing a set of instructions that tell the computer how to display the page. The computer then interprets these instructions and renders the page on the screen. HTML use special codes called "tags" to tell the computer how different parts of the webpage should look and where they should go. For example, they can use a tag to create a heading, another tag to make a picture appear, and so on.
-
-HTML file has .html extension. HTML elements are delineated by tags, written using angle brackets (`<` and `>`). 
-
-Tag : Tag is the container for all other HTML Content.
-<p> tag: Use to write paragraph
-<br> tag: Use to create line break
-<hr> tag: Use to add horizontal line between paragraphs.
-<h1> to <h6> tag: Use to define Heading.
-
-Attributes : Tags can have extra bit of info which is called attribute. Attribute is written inside opening tag with their value. <tag attributes='values'>
-
-Element : Content which we write between <> </> tags with opening tag & closing tag.
-
-**Replaced and void elements :**
-
-Void elements cannot contain text content or nested elements. Void elements include `<br>`, `<col>`, `<embed>`, `<hr>`, `<img>`, `<input>`, `<link>`, `<meta>`, `<source>`, `<track>`, and `<wbr>`, among others.
-
 ## Best Reference Document which i found on internet is by google. Scan entire documentation quickly , no need to learn it, during assignment & revision period we will eventually learn those things.
 
 https://web.dev/learn/html/welcome
